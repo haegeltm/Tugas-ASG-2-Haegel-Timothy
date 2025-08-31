@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main() {
+  printf("hi my name is haegel\ni really like you!");
+  return 0;
+}
